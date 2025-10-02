@@ -1026,3 +1026,4 @@ const styles = StyleSheet.create({
   footerIconButton: { padding: 4, marginRight: 8 },
   responseTimeTextRight: { fontSize: 12, color: 'snow', marginLeft: 4, marginRight: 8 },
 });
+
